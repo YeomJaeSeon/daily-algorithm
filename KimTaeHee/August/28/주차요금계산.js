@@ -1,8 +1,5 @@
 function solution(fees, records) {
   var answer = [];
-  const inArray = [];
-  const carArray = [];
-  const outArray = [];
   const people = {};
 
   for (let i = 0; i < records.length; i++) {
