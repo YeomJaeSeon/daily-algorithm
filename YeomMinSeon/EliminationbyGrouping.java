@@ -3,7 +3,6 @@ import java.util.*;
 
 public class EliminationbyGrouping {
 
-
         public int solution(String s) {
             Stack<String> stack = new Stack<>();
 
