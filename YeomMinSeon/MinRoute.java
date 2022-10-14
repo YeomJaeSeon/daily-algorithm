@@ -9,7 +9,7 @@ public class MinRoute {
     static class Node implements Comparable<Node> {
         int to, weight;
         public Node(int to, int weight) {
-            this.to = to;
+            this.to = to;ㅛ
             this.weight = weight;
         }
         @Override
